@@ -1,3 +1,3 @@
-let nombre = prompt("Ingrese su nombre");
+let edad = Number(prompt("Ingrese su edad"));
 
-console.log(`Hola ${nombre}`)
+alert(`Su edad es ${edad}`);
